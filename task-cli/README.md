@@ -1,6 +1,7 @@
 # Task-CLI
 
-一个用 Go 编写的极简命令行任务管理器，支持增删改查与状态标记。
+一个用 Go 编写的极简命令行任务管理器，支持增删改查与状态标记。来源：[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 
 ## 安装 & 运行
 
