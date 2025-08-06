@@ -1,4 +1,4 @@
-# Diary Trace
+# My-test
 
 | 序号 | 日期 | 任务描述 | 相关文件 |
 |------|------|----------|----------|
@@ -8,3 +8,4 @@
 | 4 | 7.29 | Go 并发 + channel 实战 | logcli-v2/log-cliv2.go |
 | 5 | 7.30 | Docker 多架构镜像构建 | logcli-v2/Dockerfile, logcli-v2/build-multiarch.sh |
 | 6 | 8.06 | 多线程文件下载器 | downloader/ |
+
