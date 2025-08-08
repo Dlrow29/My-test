@@ -40,7 +40,7 @@ func ParseCLI() Config {
 
 func main() {
 	cfg := ParseCLI()
-	downloader := &Downloader{concurrency: cfg.concurrency}
+	downloader := NewDownloader(cfg.concurrency)
 	err := downloader.Download(cfg.URL, cfg.outFile)
 	if err != nil {
 		log.Fatal(err)

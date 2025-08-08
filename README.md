@@ -11,3 +11,4 @@ Go 语言实战项目学习仓库
 | 5 | 7.29 | 并发日志分析器 v2.0 | Go, Goroutine, Channel | logcli-v2/log-cliv2.go |
 | 6 | 7.30 | Docker 多架构镜像构建 | Docker Multi-arch | logcli-v2/Dockerfile |
 | 7 | 8.06 | 多线程文件下载器 | Go HTTP 并发 | downloader/ |
+| 8 | 8.08 | 下载器性能优化与错误修复 | Go HTTP, Range请求 | downloader/ |
